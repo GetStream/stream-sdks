@@ -20,7 +20,7 @@ We currently provide the following SDKs and framework integrations for the follo
 - [React](https://github.com/GetStream/stream-chat-react)
 - [JavaScript](https://github.com/GetStream/stream-chat-js)
 - [iOS (Swift)](https://github.com/GetStream/stream-chat-swift)
-- [Android (Java/Kotlin](https://github.com/GetStream/stream-chat-android)
+- [Android (Java/Kotlin)](https://github.com/GetStream/stream-chat-android)
 - [PHP](https://github.com/GetStream/stream-chat-php)
 - [Go](https://github.com/GetStream/stream-chat-go)
 
