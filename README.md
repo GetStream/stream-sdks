@@ -24,5 +24,6 @@ We currently provide the following SDKs and framework integrations for the follo
 - [PHP](https://github.com/GetStream/stream-chat-php)
 - [Go](https://github.com/GetStream/stream-chat-go)
 - [Dart](https://github.com/GetStream/stream-chat-dart)
+- [Ruby](https://github.com/GetStream/stream-chat-ruby)
 
 > *Note: In addition to the above, we provide a CLI that currently supports chat and will soon support feeds. That can be found [here](https://github.com/getstream/stream-cli).*
