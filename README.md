@@ -17,6 +17,7 @@ We currently provide the following SDKs and framework integrations for the follo
 ## Chat
 - [Python](https://github.com/GetStream/stream-chat-python)
 - [React Native](https://github.com/GetStream/stream-chat-react-native)
+- [Flutter](https://github.com/GetStream/stream-chat-flutter)
 - [React](https://github.com/GetStream/stream-chat-react)
 - [JavaScript](https://github.com/GetStream/stream-chat-js)
 - [iOS (Swift)](https://github.com/GetStream/stream-chat-swift)
